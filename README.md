@@ -84,5 +84,5 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Developed by **Your Name**  
+Developed by **ANSHUL PURI**  
 GitHub: [@anshul2206](https://github.com/anshul2206)
