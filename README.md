@@ -13,6 +13,12 @@ git clone https://github.com/anshul2206/MACMorpher.git
 cd macchanger
 ```
 
+Install required libraries using `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
 Ensure Python 3 is installed and make the script executable (optional):
 
 ```bash
